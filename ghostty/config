@@ -1,0 +1,31 @@
+# --- Theme ---
+theme = dark:custom-dark,light:custom-light
+macos-titlebar-proxy-icon = hidden
+# adjust-cell-height = 1
+
+# --- Font ---
+font-family = "JetBrainsMono Nerd Font"
+font-style = bold
+font-size = 15
+font-thicken = true
+# font-family = "Hack Nerd Font Mono"
+# font-family = "Monaco"
+
+# --- Cursor ---
+shell-integration-features = no-cursor
+cursor-style = block
+cursor-style-blink = true
+
+# --- Window ---
+window-width = 80
+window-height = 25
+
+# --- Behavior ---
+working-directory = "/Users/deas"
+confirm-close-surface = false
+bold-is-bright = true
+copy-on-select = false
+scrollbar = never
+macos-dock-drop-behavior = new-window
+working-directory = home
+window-inherit-working-directory = false
